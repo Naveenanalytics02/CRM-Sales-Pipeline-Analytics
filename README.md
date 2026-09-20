@@ -172,6 +172,40 @@ The dashboard helps transform the SQL analysis into a visual and easier-to-under
 
 ---
 
+## 📸 Dashboard Preview
+
+The final analysis was brought together in Power BI through a set of interactive dashboard pages. Each page focuses on a different part of the sales pipeline and makes the analysis easier to explore.
+
+### 📊 Sales Performance
+
+This page provides an overview of sales activity, including opportunities, deal outcomes, and overall pipeline performance.
+
+![Sales Performance Dashboard]---
+
+## 📸 Dashboard Preview
+
+The final analysis was brought together in Power BI through a set of interactive dashboard pages. Each page focuses on a different part of the sales pipeline and makes the analysis easier to explore.
+
+### 📊 Sales Performance
+
+This page provides an overview of sales activity, including opportunities, deal outcomes, and overall pipeline performance.
+
+![Sales Performance Dashboard](PowerBI/Screenshots/sales_performance.png)
+
+### 💰 Revenue & Performance
+
+This page focuses on revenue-related metrics and helps understand how sales performance varies across the pipeline.
+
+![Revenue and Performance Dashboard](PowerBI/Screenshots/dashboard_overview.png)
+
+### 📦 Product & Account Analysis
+
+This page looks at product and account-level performance to identify where the highest-value opportunities and contributions are coming from.
+
+![Product and Account Analysis Dashboard](PowerBI/Screenshots/product_account_analysis.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 | Tool                | Purpose                                  |
