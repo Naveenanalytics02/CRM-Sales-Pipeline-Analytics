@@ -271,8 +271,7 @@ Possible future enhancements include:
 
 **Naveen Sharma**
 
-B.Tech Computer Science & Engineering
-Interested in **Data Analytics, SQL, Python, and Business Intelligence**
+B.Tech Computer Science & Engineering undergraduate interested in Data Analytics, SQL, Python, and Business Intelligence.
 
 ---
 
