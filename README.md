@@ -220,25 +220,30 @@ This page looks at product and account-level performance to identify where the h
 CRM-Sales-Pipeline-Analytics/
 │
 ├── 📂 Data/
-│   ├── 📂 Raw/
 │   ├── 📂 Cleaned/
-│   └── 📂 Data_Dictionary/
-│
-├── 📂 Python/
-│   └── Data cleaning and analysis notebooks
-│
-├── 📂 SQL/
-│   ├── Database setup
-│   └── Analysis queries
+│   ├── 📄 accounts.csv
+│   ├── 📄 data_dictionary.csv
+│   ├── 📄 products.csv
+│   ├── 📄 sales_pipeline.csv
+│   └── 📄 sales_teams.csv
 │
 ├── 📂 PowerBI/
-│   └── Power BI dashboard
+│   ├── 📂 Screenshots/
+│   └── 📊 CRM_Sales_Pipeline_Analytics.pbix
 │
+├── 📂 Python/
+│   ├── 🐍 data_cleaning.py
+│   ├── 🐍 eda.py
+│   └── 🐍 load_data.py
+│
+├── 📂 SQL/
+│   ├── 📄 01_create_tables.sql
+│   ├── 📄 02_basic_sales_analysis.sql
+│   └── 📄 03_advanced_sales_analysis.sql
+│
+├── 📄 .gitignore
 └── 📄 README.md
 ```
-
----
-
 ## 📈 Key Outcome
 
 The project follows a complete analytics workflow:
